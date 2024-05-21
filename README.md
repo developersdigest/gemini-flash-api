@@ -33,9 +33,11 @@ This repository provides a comprehensive guide on leveraging the Gemini Flash AP
 
 ## YouTube Video
 
-For a detailed walkthrough, watch the video tutorial by clicking the image below:
-
-[![Watch the video](https://img.youtube.com/vi/TJOrVx8ewpY/0.jpg)](https://youtu.be/TJOrVx8ewpY)
+<div style="display: flex; justify-content: center; align-items: center;">
+    <a href="https://youtu.be/TJOrVx8ewpY">
+        <img src="https://img.youtube.com/vi/TJOrVx8ewpY/0.jpg" alt="Tutorial Video" style="width: 100%; height: auto;">
+    </a>
+</div>
 
 ## License
 
